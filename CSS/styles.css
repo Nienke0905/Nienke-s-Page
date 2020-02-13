@@ -77,7 +77,7 @@ p {
 .skill-row {
     margin:100px auto;
     text-align: left;
-    width: 50%;
+    width: 0%;
 }
 
 .skill-text {
@@ -93,7 +93,7 @@ p {
 }
 
 .contact-message {
-    width: 40%;
+    width: 80%;
     margin: 40px auto 60px;
 }
 
